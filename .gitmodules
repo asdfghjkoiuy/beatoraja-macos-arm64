@@ -1,0 +1,8 @@
+[submodule "upstreams/beatoraja"]
+	path = upstreams/beatoraja
+	url = https://github.com/exch-bms2/beatoraja.git
+	shallow = true
+[submodule "upstreams/libgdx"]
+	path = upstreams/libgdx
+	url = https://github.com/libgdx/libgdx.git
+	shallow = true

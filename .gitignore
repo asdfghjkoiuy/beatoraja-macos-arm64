@@ -1,0 +1,7 @@
+dist/
+build/
+*.zip
+*.app/
+*.jar
+*.db
+.DS_Store
